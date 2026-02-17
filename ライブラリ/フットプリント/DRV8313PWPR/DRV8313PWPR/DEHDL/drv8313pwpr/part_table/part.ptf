@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'DRV8313PWPR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "RS_PART_NUMBER", "RS_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "DRV8313PWPR" (!) = "", "SOP65P640X120-29N", "Small Outline Packages", "", "", "2.5A Three Phase Brushless DC Motor Driver (PWM Ctrl)", "http://www.ti.com/lit/gpn/drv8313", "1.2 mm"
+END_PART
+
+END.

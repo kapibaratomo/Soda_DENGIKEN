@@ -1,0 +1,7 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+A1,Arduino_UNO_R3,Arduino_UNO_R3,182.79,-77.87,180.0,top
+J1,Conn_01x05_Socket,JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical,217.6,-113.49,0.0,top
+J3,Conn_02x05_Odd_Even,IDC-Header_2x05_P2.54mm_Vertical,196.75,-112.44,-90.0,top
+R1,10k,R_0603_1608Metric,180.5,-114.325,-90.0,top
+U1,~,MPU6050,240.23,-86.0,180.0,top
+U2,~,SW_4P,168.0,-111.0,90.0,top

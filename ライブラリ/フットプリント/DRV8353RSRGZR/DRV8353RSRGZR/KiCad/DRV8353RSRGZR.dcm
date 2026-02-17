@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DRV8353RSRGZR
+D Motor / Motion / Ignition Controllers & Drivers 100-V Three-Phase Smart Gate Driver With Buck Regulator and Three Current Shunt Amplifiers 48-VQFN -40 to 125
+K
+F http://www.ti.com/lit/ds/symlink/drv8353r.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'STM32F446RET6'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT", "TJ", "MTBF", "POWER", "SLOPE", "SUBTYPE", "PACKAGE", "RJA", "VCC_MAX", "VCC_MIN", "IOUT_MAX", "IOUT_MIN", "ICC", "IGND", "RCA", "RJC", "ICCQ", "TECHNOLOGY";
+{========================================================================================}
+ "STMicroelectronics", "STM32F446RET6" (!) = "", "QFP50P1200X1200X160-64N", "Quad Flat Packages", "511-STM32F446RET6", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STM32F446RET6?qs=Ok1pvOkw6%2FqpQsWf8F4wtQ%3D%3D", "STM32F446RET6", "https://www.arrow.com/en/products/stm32f446ret6/stmicroelectronics?utm_currency=USD&region=nac", "Arm Cortex-M4 32-bit MCU+FPU, 225 DMIPS, up to 512 KB Flash/128+4 KB RAM, USB OTG HS/FS, seventeen TIMs, three ADCs and twenty communication interfaces", "https://www.st.com/resource/en/datasheet/stm32f446mc.pdf", "1.6 mm", "125", "", "345m", "", "MCU SMD", "LQFP-64", "46", "4", "-0.3", "25m", "25m", "240m", "", "", "", "", "CMOS_TTL"
+END_PART
+
+END.

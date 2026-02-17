@@ -1,0 +1,9 @@
+Manufacturer=Nisshinbo
+PartNumber=NJL7502L
+PartCategory=Phototransistor
+PackageCategory=Other
+PinCount=2
+Version=2.3
+Released=2025-07-18 12:02:09
+Downloaded=2025-07-26 07:14:25
+3D=Y

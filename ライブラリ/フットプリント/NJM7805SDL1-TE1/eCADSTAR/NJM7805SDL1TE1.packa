@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "NJM7805SDL1-TE1"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-09-25-20:24:18)
+    (mountForm default
+        (footprintRef "NJM7805SDL1TE1")
+        (spec "System")
+    )
+)

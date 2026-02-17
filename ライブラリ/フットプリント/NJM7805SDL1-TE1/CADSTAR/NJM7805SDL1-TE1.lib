@@ -1,0 +1,18 @@
+.NJM7805SDL1-TE1 :1 ;Linear Voltage Regulator IC Positive Fixed 1 Output 1.5A TO-252-3
+NJM7805SDL1TE1
+*STM IC
+*NGS
+*PLB 1="VIN" 2="GND" 3="VOUT"
+*MXP 3
+*DFN NJM7805SDL1-TE1
+~!Manufacturer_Name (Nisshinbo)
+~!Manufacturer_Part_Number (NJM7805SDL1-TE1)
+~!Mouser Part Number (513-NJM7805SDL1-TE1)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Nisshinbo/NJM7805SDL1-TE1?qs=GBLSl2AkirtxkrsaOjZilw%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.nisshinbo-microdevices.co.jp/ja/pdf/datasheet/NJM7800S_J.pdf)
+~!Height (-)
+~!3D_Model (NJM7805SDL1-TE1)
+NJM7805SDL1-TE1
+1.1!U 2.1!U 3.1!U 

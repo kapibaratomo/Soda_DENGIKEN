@@ -1,0 +1,16 @@
+.DRV8353RSRGZR :1 ;Motor / Motion / Ignition Controllers & Drivers 100-V Three-Phase Smart Gate Driver With Buck Regulator and Three Current Shunt Amplifiers 48-VQFN -40 to 125
+QFN50P700X700X100-49N-D
+*STM M
+*NGS
+*PLB 1="GND" 2="VGLS" 3="CPL" 4="CPH" 5="VM" 6="VDRAIN" 7="VCP" 8="GHA" 9="SHA" 10="GLA" 11="SPA" 12="SNA" 13="SNB" 14="SPB" 15="GLB" 16="SHB" 17="GHB" 18="GHC" 19="SHC" 20="GLC" 21="SPC" 22="SNC" 23="SOC" 24="SOB" 25="SOA" 26="VREF" 27="AGND" 28="NFAULT" 29="SDO" 30="SDI" 31="SCLK" 32="NSCS" 33="ENABLE" 34="INHA" 35="INLA" 36="INHB" 37="INLB" 38="INHC" 39="INLC" 40="DVDD" 41="DGND" 42="SW" 43="VIN" 44="VCC" 45="BST" 46="RCL" 47="RT/SD" 48="FB" 49="PAD"
+*MXP 49
+*DFN DRV8353RSRGZR
+~!RS Part Number (-)
+~!RS Price/Stock (-)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (DRV8353RSRGZR)
+~!Link Datasheet (http://www.ti.com/lit/ds/symlink/drv8353r.pdf)
+~!Height (1mm)
+~!3D_Model (DRV8353RSRGZR)
+DRV8353RSRGZR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 21.1!U 22.1!U 23.1!U 24.1!U 36.1!U 35.1!U 34.1!U 33.1!U 32.1!U 31.1!U 30.1!U 29.1!U 28.1!U 27.1!U 26.1!U 25.1!U 49.1!U 48.1!U 47.1!U 46.1!U 45.1!U 44.1!U 43.1!U 42.1!U 41.1!U 40.1!U 39.1!U 38.1!U 37.1!U 

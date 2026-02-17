@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "DRV8955PRGER"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-06-18-07:26:07)
+    (mountForm default
+        (footprintRef "QFN50P400X400X100-25N-D")
+        (spec "System")
+    )
+)

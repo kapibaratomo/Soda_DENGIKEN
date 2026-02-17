@@ -1,0 +1,7 @@
+Comment,Designator,Footprint,LCSC,Quantity
+Conn_01x05_Socket,J1,JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical,,1
+10k,R1,R_0603_1608Metric,,1
+~,U2,SW_4P,,1
+Arduino_UNO_R3,A1,Arduino_UNO_R3,,1
+Conn_02x05_Odd_Even,J3,IDC-Header_2x05_P2.54mm_Vertical,,1
+~,U1,MPU6050,,1

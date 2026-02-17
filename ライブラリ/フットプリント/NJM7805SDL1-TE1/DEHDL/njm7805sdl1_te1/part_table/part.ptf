@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'NJM7805SDL1_TE1'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Nisshinbo", "NJM7805SDL1-TE1" (!) = "", "NJM7805SDL1TE1", "Other", "513-NJM7805SDL1-TE1", "https://www.mouser.co.uk/ProductDetail/Nisshinbo/NJM7805SDL1-TE1?qs=GBLSl2AkirtxkrsaOjZilw%3D%3D", "", "", "Linear Voltage Regulator IC Positive Fixed 1 Output 1.5A TO-252-3", "https://www.nisshinbo-microdevices.co.jp/ja/pdf/datasheet/NJM7800S_J.pdf"
+END_PART
+
+END.

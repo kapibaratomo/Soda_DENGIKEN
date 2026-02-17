@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '2MS1_T2_B4_M2_Q_E_S'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "RS_PART_NUMBER", "RS_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Cosland", "2MS1-T2-B4-M2-Q-E-S" (!) = "", "2MS1T2B4M2QES", "Other", "", "", "2M SERIES SUBMINIATURE TOGGLE SWITCH", "http://www.kyohritsu.jp/eclib/OTHER/CATALOG/SW/2mseries.pdf", "19.56 mm"
+END_PART
+
+END.

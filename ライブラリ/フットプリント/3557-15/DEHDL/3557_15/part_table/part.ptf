@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '3557_15'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "RS_PART_NUMBER", "RS_PRICE/STOCK", "ALLIED_NUMBER", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Keystone Electronics", "3557-15" (!) = "", "355715", "Other", "", "", "70914078", "Fuse Holder T/H 2 IN 1 AUTO BLDE HOLDER, BLUE 15A", "https://www.keyelco.com/product-pdf.cfm?p=14225", "7.5 mm"
+END_PART
+
+END.

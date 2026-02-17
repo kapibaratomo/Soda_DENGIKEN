@@ -1,0 +1,9 @@
+Manufacturer=New Japan Radio
+PartNumber=NJM2391DL1-33-TE1
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=3
+Version=1.1
+Released=2018-10-10 15:16:05
+Downloaded=2025-03-24 23:20:02
+3D=Y

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "TVGP01-G73BB"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-02-26-13:19:26)
+    (mountForm default
+        (footprintRef "TVGP01G73BB")
+        (spec "System")
+    )
+)

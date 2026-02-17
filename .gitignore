@@ -1,0 +1,8 @@
+# Windows & Mac Junk
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Logs
+*.log
+*.tmp

@@ -1,0 +1,16 @@
+.DRV8955PRGER :1 ;Quad Half Bridge Motor Driver 24-Pin VQFN EP T/R
+QFN50P400X400X100-25N-D
+*STM IC
+*NGS
+*PLB 1="VM_1" 2="PGND_1" 3="OUT1" 4="OUT2" 5="OUT4" 6="OUT3" 7="PGND_2" 8="VM_2" 9="GND" 10="DVDD" 11="NFAULT" 12="VREF34/EN4" 13="VREF12/EN3" 14="TOFF/EN2" 15="RSVD/EN1" 16="MODE" 17="IN4" 18="IN3" 19="IN2" 20="IN1" 21="NSLEEP" 22="CPL" 23="CPH" 24="VCP" 25="EP"
+*MXP 25
+*DFN DRV8955PRGER
+~!RS Part Number (-)
+~!RS Price/Stock (-)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (DRV8955PRGER)
+~!Link Datasheet (https://www.ti.com/lit/ds/symlink/drv8955.pdf?ts=1623934914436&ref_url=https%253A%252F%252Fwww.ti.com%252Fstore%252Fti%252Fen%252Fp%252Fproduct%252F%253Fp%253DDRV8955PRGER)
+~!Height (1mm)
+~!3D_Model (DRV8955PRGER)
+DRV8955PRGER
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 18.1!U 17.1!U 16.1!U 15.1!U 14.1!U 13.1!U 25.1!U 24.1!U 23.1!U 22.1!U 21.1!U 20.1!U 19.1!U 

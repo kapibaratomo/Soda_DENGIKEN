@@ -1,0 +1,9 @@
+Manufacturer=New Japan Radio
+PartNumber=NJL7502R
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=2
+Version=1.4
+Released=2020-07-25 12:57:10
+Downloaded=2025-03-17 08:01:14
+3D=Y

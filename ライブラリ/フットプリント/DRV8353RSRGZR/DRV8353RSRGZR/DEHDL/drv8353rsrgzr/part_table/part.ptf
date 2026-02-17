@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'DRV8353RSRGZR'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "RS_PART_NUMBER", "RS_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "DRV8353RSRGZR" (!) = "", "QFN50P700X700X100-49N-D", "Quad Flat No-Lead", "", "", "Motor / Motion / Ignition Controllers & Drivers 100-V Three-Phase Smart Gate Driver With Buck Regulator and Three Current Shunt Amplifiers 48-VQFN -40 to 125", "http://www.ti.com/lit/ds/symlink/drv8353r.pdf", "1 mm"
+END_PART
+
+END.
