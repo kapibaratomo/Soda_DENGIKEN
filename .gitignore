@@ -6,3 +6,13 @@ desktop.ini
 # Logs
 *.log
 *.tmp
+
+# Google Drive Temp Files (Up & Down)
+.tmp.drivedownload
+.tmp.driveupload
+
+# KiCad Lock Files (Do not commit)
+*.lck
+
+# Ignore Apps Folder (Optional)
+アプリ/
