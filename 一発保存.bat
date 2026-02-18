@@ -1,24 +1,20 @@
 @echo off
-chcp 65001
 cd /d %~dp0
 
 echo ==========================================
-echo  GitHubへ自動バックアップを開始します...
+echo  Starting GitHub Auto Backup...
 echo ==========================================
 
-:: ▼【修正1】pullはいったん無効化します（エラー回避のため）
-:: git pull origin main
-
-:: 全ファイルを登録
+:: 1. 全ファイルを登録
 git add .
 
-:: 日付と時刻をメッセージにしてコミット
-git commit -m "自動バックアップ: %date% %time%"
+:: 2. 英語でコミット（これで文字化けエラーを回避）
+git commit -m "Auto Backup: %date% %time%"
 
-:: ▼【修正2】ブランチ名を自動判定(HEAD)に変更
+:: 3. 送信
 git push origin HEAD
 
 echo ==========================================
-echo  完了しました！
+echo  Done!
 echo ==========================================
 pause
