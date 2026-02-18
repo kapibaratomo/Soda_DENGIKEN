@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,9.0.7*%
-%TF.CreationDate,2026-02-07T16:49:49+09:00*%
+%TF.CreationDate,2026-02-18T21:40:17+09:00*%
 %TF.ProjectId,Motor driver board_1.0,4d6f746f-7220-4647-9269-76657220626f,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Legend,Bot*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 9.0.7) date 2026-02-07 16:49:49*
+G04 Created by KiCad (PCBNEW 9.0.7) date 2026-02-18 21:40:17*
 %MOMM*%
 %LPD*%
 G01*
@@ -33,9 +33,9 @@ X158250000Y-73750000D03*
 %TD*%
 D12*
 %TO.C,C7*%
-X191950000Y-73750000D03*
+X190000000Y-73750000D03*
 D13*
-X196950000Y-73750000D03*
+X195000000Y-73750000D03*
 %TD*%
 D10*
 %TO.C,C2*%
@@ -51,9 +51,9 @@ X158250000Y-126250000D03*
 %TD*%
 D12*
 %TO.C,C21*%
-X191950000Y-126250000D03*
+X190500000Y-126500000D03*
 D13*
-X196950000Y-126250000D03*
+X195500000Y-126500000D03*
 %TD*%
 D14*
 %TO.C,J1*%
