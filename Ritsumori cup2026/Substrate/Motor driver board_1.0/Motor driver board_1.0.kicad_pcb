@@ -11090,7 +11090,7 @@
 		(path "/575fe820-bb6d-44a4-8d86-1df88cb84d50")
 		(sheetname "/")
 		(sheetfile "Motor driver board_1.0.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.49 1.04)
 			(end 1.49 3.222)
@@ -14901,7 +14901,7 @@
 				)
 			)
 		)
-		(property "Value" "30k"
+		(property "Value" "1"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "a0e43570-90a2-4cda-813f-d199a1a6cf06")
@@ -18819,7 +18819,7 @@
 				)
 			)
 		)
-		(property "Value" "30k"
+		(property "Value" "1"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "ba29907a-b9ed-41ef-8a10-a59e04c53368")
@@ -18849,6 +18849,18 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b70e3a64-4682-40d8-864d-8ec401cab574")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C22936"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "e10edc9e-3a1a-4fb2-ab74-b7349b6c84c4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19656,6 +19668,18 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "612d4c9a-6c39-42cf-ba76-f227f8e63c42")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "7d8f8f6e-8e27-4f49-8785-a638ee04ea30")
 			(effects
 				(font
 					(size 1.27 1.27)
