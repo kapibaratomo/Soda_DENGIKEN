@@ -1875,7 +1875,7 @@
 		(path "/b73b5174-383b-4712-a9cc-b63f4467151b")
 		(sheetname "/")
 		(sheetfile "Motor driver board_1.0.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.49 1.04)
 			(end 1.49 3.222)
@@ -4009,7 +4009,7 @@
 		(path "/06fe130d-e842-4000-8300-2bbc30558314")
 		(sheetname "/")
 		(sheetfile "Motor driver board_1.0.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 7.581 -0.599)
 			(end 7.581 0.599)
@@ -8206,7 +8206,7 @@
 		(path "/72151312-8cf0-4c0e-8656-65a07ab7c9e0")
 		(sheetname "/")
 		(sheetfile "Motor driver board_1.0.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -2.979646 -2.875)
 			(end -1.979646 -2.875)
@@ -16165,7 +16165,7 @@
 		(path "/7177e1ed-5a67-4cfc-80e6-b84baa40ed74")
 		(sheetname "/")
 		(sheetfile "Motor driver board_1.0.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 7.581 -0.599)
 			(end 7.581 0.599)
@@ -19667,7 +19667,7 @@
 		(path "/40228bc3-7801-4121-9136-3a1a8296c30a")
 		(sheetname "/")
 		(sheetfile "Motor driver board_1.0.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -2.979646 -2.875)
 			(end -1.979646 -2.875)
@@ -21945,7 +21945,7 @@
 		(path "/3361b8b4-7eb7-4747-8544-09efdd47cb4a")
 		(sheetname "/")
 		(sheetfile "Motor driver board_1.0.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -3.87 -1.33)
 			(end -3.87 24.19)
