@@ -3600,7 +3600,7 @@
 		(uuid "21e99765-643c-43de-8892-d1d2daae7f4b")
 	)
 	(no_connect
-		(at 262.89 73.66)
+		(at 262.89 76.2)
 		(uuid "27675cbb-8c14-444a-9830-11589f709b94")
 	)
 	(no_connect
@@ -6267,7 +6267,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 262.89 76.2 90)
+		(at 262.89 73.66 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6276,7 +6276,7 @@
 		(fields_autoplaced yes)
 		(uuid "1bc1817c-b015-40f6-aeb5-6010138c7f7d")
 		(property "Reference" "#PWR028"
-			(at 269.24 76.2 0)
+			(at 269.24 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6285,7 +6285,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 266.7 76.1999 90)
+			(at 266.7 73.6599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6294,7 +6294,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 262.89 76.2 0)
+			(at 262.89 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6303,7 +6303,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 262.89 76.2 0)
+			(at 262.89 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6312,7 +6312,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 262.89 76.2 0)
+			(at 262.89 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6654,8 +6654,7 @@
 	)
 	(symbol
 		(lib_id "power:+12V")
-		(at 212.09 72.39 90)
-		(mirror x)
+		(at 224.79 72.39 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6664,7 +6663,7 @@
 		(fields_autoplaced yes)
 		(uuid "342220d2-9d91-4a9d-b503-3d816e3e84ca")
 		(property "Reference" "#PWR019"
-			(at 215.9 72.39 0)
+			(at 220.98 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6673,7 +6672,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 208.28 72.3899 90)
+			(at 228.6 72.3899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6682,7 +6681,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 212.09 72.39 0)
+			(at 224.79 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6691,7 +6690,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 212.09 72.39 0)
+			(at 224.79 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6700,7 +6699,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 212.09 72.39 0)
+			(at 224.79 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6854,8 +6853,7 @@
 	)
 	(symbol
 		(lib_id "power:VDD")
-		(at 224.79 72.39 270)
-		(mirror x)
+		(at 212.09 72.39 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6864,7 +6862,7 @@
 		(fields_autoplaced yes)
 		(uuid "3f7a561f-ad1f-4325-b2c5-5d540fb6fad8")
 		(property "Reference" "#PWR017"
-			(at 220.98 72.39 0)
+			(at 215.9 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6873,7 +6871,7 @@
 			)
 		)
 		(property "Value" "VDD"
-			(at 228.6 72.3899 90)
+			(at 208.28 72.3899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6882,7 +6880,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 224.79 72.39 0)
+			(at 212.09 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6891,7 +6889,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 224.79 72.39 0)
+			(at 212.09 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6900,7 +6898,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VDD\""
-			(at 224.79 72.39 0)
+			(at 212.09 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
