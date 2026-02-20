@@ -5,8 +5,6 @@ echo ==========================================
 echo  Google Driveの同期完了を待機中...
 echo  (50秒後に自動で開始します)
 echo ==========================================
-
-:: ▼ここで10秒カウントダウンします（何かキーを押すとスキップ可能）
 timeout /t 50
 
 echo.
@@ -16,7 +14,14 @@ echo ==========================================
 
 git add .
 git commit -m "Auto Backup: %date% %time%"
+
+:: ▼ 個人用（origin）に送信！
+echo  Pushing to Personal (origin)...
 git push origin HEAD
+
+:: ▼ チーム用（team）にも送信！
+echo  Pushing to Team (team)...
+git push team HEAD
 
 echo ==========================================
 echo  Done!
