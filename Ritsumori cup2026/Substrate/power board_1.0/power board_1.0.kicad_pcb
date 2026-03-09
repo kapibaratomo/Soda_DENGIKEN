@@ -2003,7 +2003,7 @@
 		(at 187 113.5 90)
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED")
-		(property "Reference" "D4"
+		(property "Reference" "5V"
 			(at 0 -1.43 90)
 			(layer "F.SilkS")
 			(uuid "857a5764-b398-40f3-8327-9d260dff54bd")
@@ -4722,7 +4722,7 @@
 		(at 184 113.5 90)
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED")
-		(property "Reference" "D3"
+		(property "Reference" "12V"
 			(at 0 -1.43 90)
 			(layer "F.SilkS")
 			(uuid "c0edc633-f76e-49d0-aec9-66d8bbf7da7a")
@@ -4957,7 +4957,7 @@
 		(at 190 113.5 90)
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED")
-		(property "Reference" "D5"
+		(property "Reference" "3.3V"
 			(at 0 -1.43 90)
 			(layer "F.SilkS")
 			(uuid "089dc9d4-ee64-463b-9c58-6b453c2e6b8d")
