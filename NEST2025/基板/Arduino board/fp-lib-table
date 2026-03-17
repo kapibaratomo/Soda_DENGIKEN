@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "RCJ2026 Arduino board PCB footprint")(type "KiCad")(uri "${KIPRJMOD}/部品/RCJ2026 Arduino board PCB footprint.pretty")(options "")(descr ""))
+)
