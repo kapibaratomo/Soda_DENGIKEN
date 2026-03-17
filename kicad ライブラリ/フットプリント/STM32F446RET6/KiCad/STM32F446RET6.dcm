@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM32F446RET6
+D Arm Cortex-M4 32-bit MCU+FPU, 225 DMIPS, up to 512 KB Flash/128+4 KB RAM, USB OTG HS/FS, seventeen TIMs, three ADCs and twenty communication interfaces
+K
+F https://www.st.com/resource/en/datasheet/stm32f446mc.pdf
+$ENDCMP
+#
+#End Doc Library

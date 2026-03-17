@@ -1,0 +1,62 @@
+*PADS-LIBRARY-PART-TYPES-V9*
+
+DRV8412DDWR SOP64P810X120-45N I ANA 7 1 0 0 0
+TIMESTAMP 2025.05.01.00.08.50
+"RS Part Number" 
+"RS Price/Stock" 
+"Manufacturer_Name" Texas Instruments
+"Manufacturer_Part_Number" DRV8412DDWR
+"Description" 6A Dual Brushed DC or Single Bipolar Stepper Motor Driver (PWM Ctrl)
+"Datasheet Link" http://www.ti.com/lit/gpn/drv8412
+"Geometry.Height" 1.2mm
+GATE 1 45 0
+DRV8412DDWR
+1 0 U GVDD_C
+2 0 U VDD
+3 0 U NC_1
+4 0 U NC_2
+5 0 U PWM_D
+6 0 U \RESET_CD
+7 0 U PWM_C
+8 0 U M1
+9 0 U M2
+10 0 U M3
+11 0 U VREG
+12 0 U AGND
+13 0 U GND
+14 0 U OC_ADJ
+15 0 U PWM_B
+16 0 U \RESET_AB
+17 0 U PWM_A
+18 0 U \FAULT
+19 0 U NC_3
+20 0 U NC_4
+21 0 U \OTW
+22 0 U GVDD_B
+45 0 U EPAD
+44 0 U GVDD_D
+43 0 U BST_D
+42 0 U NC_6
+41 0 U PVDD_D_2
+40 0 U PVDD_D_1
+39 0 U OUT_D
+38 0 U GND_D
+37 0 U GND_C
+36 0 U OUT_C
+35 0 U PVDD_C
+34 0 U BST_C
+33 0 U BST_B
+32 0 U PVDD_B
+31 0 U OUT_B
+30 0 U GND_B
+29 0 U GND_A
+28 0 U OUT_A
+27 0 U PVDD_A_2
+26 0 U PVDD_A_1
+25 0 U NC_5
+24 0 U BST_A
+23 0 U GVDD_A
+
+*END*
+*REMARK* SamacSys ECAD Model
+272626/1590527/2.50/45/3/Integrated Circuit

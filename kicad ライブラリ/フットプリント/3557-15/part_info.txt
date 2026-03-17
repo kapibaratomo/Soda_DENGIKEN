@@ -1,0 +1,9 @@
+Manufacturer=Keystone Electronics
+PartNumber=3557-15
+PartCategory=Hardware
+PackageCategory=Other
+PinCount=4
+Version=2.4
+Released=2019-01-20 21:15:32
+Downloaded=2025-12-11 05:42:25
+3D=Y

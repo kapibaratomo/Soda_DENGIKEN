@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NJM7805SDL1-TE1
+D Linear Voltage Regulator IC Positive Fixed 1 Output 1.5A TO-252-3
+K
+F https://www.nisshinbo-microdevices.co.jp/ja/pdf/datasheet/NJM7800S_J.pdf
+$ENDCMP
+#
+#End Doc Library

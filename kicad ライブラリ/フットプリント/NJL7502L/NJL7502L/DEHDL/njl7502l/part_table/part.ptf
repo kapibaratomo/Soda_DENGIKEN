@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'NJL7502L'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Nisshinbo", "NJL7502L" (!) = "", "NJL7502L", "Other", "513-NJL7502L", "https://www.mouser.co.uk/ProductDetail/Nisshinbo/NJL7502L?qs=Vf9KeiGtj%252BH8dpWd%252B41FfA%3D%3D", "", "", "Ambient Light Sensors Ambient Light Sensor -40C to 85C ,70V,560 nm V,100 nA", "https://www.nisshinbo-microdevices.co.jp/en/pdf/datasheet/NJL7502L_E.pdf", "5.5 mm"
+END_PART
+
+END.

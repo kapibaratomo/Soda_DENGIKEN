@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=DRV8313PWPR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=29
+Version=1.1
+Released=2020-11-20 09:56:46
+Downloaded=2025-04-28 09:19:16
+3D=Y

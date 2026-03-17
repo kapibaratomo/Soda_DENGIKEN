@@ -1,0 +1,127 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "3557-15"
+   (description "Fuse Holder T/H 2 IN 1 AUTO BLDE HOLDER, BLUE 15A")
+   (family "ANA")
+   (package "355715")
+   (attribute "Datasheet Link" "https://www.keyelco.com/product-pdf.cfm?p=14225")
+   (attribute "Geometry.Height" "7.5mm")
+   (attribute "RS Part Number" "")
+   (attribute "RS Price/Stock" "")
+   (attribute "Manufacturer_Name" "Keystone Electronics")
+   (attribute "Manufacturer_Part_Number" "3557-15")
+   (attribute "Allied_Number" "70914078")
+   (gate
+    (symbol "3557-15")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+    (pin "3" 3 PS)
+    (pin "4" 4 PS)
+   )
+  )
+  (symbol "3557-15"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "355715"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.17 5.065)
+      (pt 16.64 5.065)
+      (pt 16.64 -1.665)
+      (pt -3.17 -1.665)
+      (pt -3.17 5.065))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -3.17 5.065)
+      (pt 16.64 5.065)
+      (pt 16.64 -1.7)
+      (pt -3.17 -1.7)
+      (pt -3.17 5.065))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -4.17 6.065)
+      (pt 17.64 6.065)
+      (pt 17.64 -2.7)
+      (pt -4.17 -2.7)
+      (pt -4.17 6.065))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 0 -2.2)
+      (arc (pt 0.000 -2.200) (pt -0.050 -2.300) (pt 0.050 -2.200) (start 180.0) (sweep 90.0))
+      (pt 0 -2.3)
+      (arc (pt 0.000 -2.300) (pt -0.050 -2.300) (pt 0.050 -2.200) (start 180.0) (sweep -90.0))
+      (pt 0 -2.2))))
+   (leg 1 (pt 0.000 0.000) (padstack 1))
+   (leg 2 (pt 0.000 3.400) (padstack 0))
+   (leg 3 (pt 13.470 0.000) (padstack 0))
+   (leg 4 (pt 13.470 3.400) (padstack 0))
+   (padstack 0
+    (hole 1.6)
+    (plated true)
+    (pad (layer TCOP) (round 2.400))
+    (pad (layer INNER) (round 2.400))
+    (pad (layer BCOP) (round 2.400))
+   )
+   (padstack 1
+    (hole 1.6)
+    (plated true)
+    (pad (layer TCOP) (square 2.400))
+    (pad (layer INNER) (round 2.400))
+    (pad (layer BCOP) (square 2.400))
+   )
+   (model "3557-15.stp"
+    (euler 90 0 0)
+    (offset 6.329999923706055 1.840000033378601 4.170000076293945)
+   )
+  )
+ )
+)

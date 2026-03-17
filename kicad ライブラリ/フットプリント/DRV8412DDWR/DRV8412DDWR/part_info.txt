@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=DRV8412DDWR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=45
+Version=1.1
+Released=2018-10-31 12:15:15
+Downloaded=2025-05-01 00:08:50
+3D=Y

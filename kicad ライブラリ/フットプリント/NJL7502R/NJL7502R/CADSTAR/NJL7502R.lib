@@ -1,0 +1,16 @@
+.NJL7502R :1 ;Ambient Light Sensor
+NJL7502R
+*STM IC
+*NGS
+*PLB 1="C" 2="E"
+*MXP 2
+*DFN NJL7502R
+~!RS Part Number (-)
+~!RS Price/Stock (-)
+~!Manufacturer_Name (New Japan Radio)
+~!Manufacturer_Part_Number (NJL7502R)
+~!Link Datasheet (-)
+~!Height (0.65mm)
+~!3D_Model (NJL7502R)
+NJL7502R
+1.1!U 2.1!U 

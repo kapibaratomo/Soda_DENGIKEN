@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2MS1-T2-B4-M2-Q-E-S
+D 2M SERIES SUBMINIATURE TOGGLE SWITCH
+K
+F http://www.kyohritsu.jp/eclib/OTHER/CATALOG/SW/2mseries.pdf
+$ENDCMP
+#
+#End Doc Library

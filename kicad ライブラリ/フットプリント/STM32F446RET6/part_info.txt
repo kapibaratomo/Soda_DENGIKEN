@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=STM32F446RET6
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat Packages
+PinCount=64
+Version=3.1
+Released=2017-03-15 14:56:04
+Downloaded=2026-02-06 10:55:49
+3D=Y

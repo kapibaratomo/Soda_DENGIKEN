@@ -1,0 +1,17 @@
+.DRV8412DDWR :1 ;6A Dual Brushed DC or Single Bipolar Stepper Motor Driver (PWM Ctrl)
+SOP64P810X120-45N
+*STM IC
+*NGS
+*PLB 1="GVDD_C" 2="VDD" 3="NC_1" 4="NC_2" 5="PWM_D" 6="'RESET_CD'" 7="PWM_C" 8="M1" 9="M2" 10="M3" 11="VREG" 12="AGND" 13="GND" 14="OC_ADJ" 15="PWM_B" 16="'RESET_AB'" 17="PWM_A" 18="'FAULT'" 19="NC_3" 20="NC_4" 21="'OTW'" 22="GVDD_B" 23="GVDD_A" 24="BST_A" 25="NC_5" 26="PVDD_A_1" 27="PVDD_A_2" 28="OUT_A" 29="GND_A" 30="GND_B" 31="OUT_B" 32="PVDD_B" 33="BST_B" 34="BST_C" 35="PVDD_C" 36="OUT_C" 37="GND_C" 38="GND_D" 39="OUT_D" 40="PVDD_D_1" 41="PVDD_D_2" &
+42="NC_6" 43="BST_D" 44="GVDD_D" 45="EPAD"
+*MXP 45
+*DFN DRV8412DDWR
+~!RS Part Number (-)
+~!RS Price/Stock (-)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (DRV8412DDWR)
+~!Link Datasheet (http://www.ti.com/lit/gpn/drv8412)
+~!Height (1.2mm)
+~!3D_Model (DRV8412DDWR)
+DRV8412DDWR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 21.1!U 22.1!U 45.1!U 44.1!U 43.1!U 42.1!U 41.1!U 40.1!U 39.1!U 38.1!U 37.1!U 36.1!U 35.1!U 34.1!U 33.1!U 32.1!U 31.1!U 30.1!U 29.1!U 28.1!U 27.1!U 26.1!U 25.1!U 24.1!U 23.1!U 

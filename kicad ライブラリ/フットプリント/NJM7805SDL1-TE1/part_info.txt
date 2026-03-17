@@ -1,0 +1,9 @@
+Manufacturer=Nisshinbo
+PartNumber=NJM7805SDL1-TE1
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=3
+Version=2.2
+Released=2022-02-11 10:57:10
+Downloaded=2025-11-26 08:31:51
+3D=Y
