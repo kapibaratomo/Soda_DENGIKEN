@@ -16,7 +16,7 @@ echo  Starting GitHub Auto Backup...
 echo ==========================================
 
 
-:: ▼ Soda_DENGIKEN本体（origin + team）
+:: ▼ Soda_DENGIKEN本体（originのみ）
 echo.
 echo ------------------------------------------
 echo  [1/7] Soda_DENGIKEN
@@ -28,15 +28,13 @@ if %errorlevel% neq 0 (
     git commit -m "Auto Backup: %date% %time%"
     git push origin HEAD
     if %errorlevel% neq 0 ( echo  [ERROR] origin push失敗 )
-    git push team HEAD
-    if %errorlevel% neq 0 ( echo  [ERROR] team push失敗 )
     echo  [OK] Soda_DENGIKEN 完了
 ) else (
     echo  変更なし。スキップ
 )
 
 
-:: ▼ 個別リポジトリ5個（originのみ）
+:: ▼ 個別リポジトリ6個（originのみ）
 set COUNT=2
 for %%F in ("kicad ライブラリ" "NEST2025" "NEST2026" "RCJ2025" "RCJ2026" "Ritsumori cup2026") do (
     echo.
