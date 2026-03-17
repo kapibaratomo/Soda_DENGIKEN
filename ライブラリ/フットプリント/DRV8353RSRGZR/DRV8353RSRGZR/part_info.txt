@@ -1,9 +1,0 @@
-Manufacturer=Texas Instruments
-PartNumber=DRV8353RSRGZR
-PartCategory=Motor
-PackageCategory=Quad Flat No-Lead
-PinCount=49
-Version=1.1
-Released=2019-02-28 15:23:12
-Downloaded=2025-07-05 05:39:33
-3D=Y

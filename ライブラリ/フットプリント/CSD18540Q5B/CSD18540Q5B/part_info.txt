@@ -1,9 +1,0 @@
-Manufacturer=Texas Instruments
-PartNumber=CSD18540Q5B
-PartCategory=MOSFET (N-Channel)
-PackageCategory=Other
-PinCount=9
-Version=1.8
-Released=2022-12-02 06:36:39
-Downloaded=2025-07-08 08:45:33
-3D=Y
