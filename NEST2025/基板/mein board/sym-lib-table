@@ -1,6 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "RCJ2026 mein board PCB symbol editor")(type "KiCad")(uri "${KIPRJMOD}/部品/RCJ2026 mein board PCB symbol/RCJ2026 mein board PCB symbol editor/RCJ2026 mein board PCB symbol editor.kicad_sym")(options "")(descr ""))
-  (lib (name "NJM7805SDL1-TE1")(type "KiCad")(uri "${KIPRJMOD}/部品/NJM7805SDL1-TE1/NJM7805SDL1-TE1/KiCad/NJM7805SDL1-TE1.kicad_sym")(options "")(descr ""))
-  (lib (name "NJM2391DL1-33-TE1")(type "KiCad")(uri "${KIPRJMOD}/部品/NJM2391DL1-33-TE1/NJM2391DL1-33-TE1/KiCad/NJM2391DL1-33-TE1.kicad_sym")(options "")(descr ""))
-)
