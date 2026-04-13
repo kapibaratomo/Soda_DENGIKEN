@@ -6,15 +6,3 @@ Comment,Designator,Footprint,LCSC,Quantity
 3.3,"R12,R6",R_0603_1608Metric,C22979,2
 30k,"R1,R11,R2,R5,R7,R8",R_0603_1608Metric,C22984,6
 DRV8412DDWR,"IC1,IC2",HTSSOP-44-1EP_6.1x14mm_P0.635mm_EP5.2x14mm_Mask4.31x8.26mm,C79852,2
-330,C19,CP_Radial_D10.0mm_P5.00mm,,1
-47,C2,CP_Radial_D6.3mm_P2.50mm,,1
-330,C1,CP_Radial_D10.0mm_P5.00mm,,1
-1000,C18,CP_Radial_D10.0mm_P5.00mm,,1
-1000,C36,CP_Radial_D10.0mm_P5.00mm,,1
-47,C20,CP_Radial_D6.3mm_P2.50mm,,1
-Conn_01x01_Socket,3.3V,TestPoint_Keystone_5000-5004_Miniature,,1
-Conn_01x01_Socket,GND,TestPoint_Keystone_5000-5004_Miniature,,1
-Conn_01x01_Socket,FAULT2,TestPoint_Keystone_5000-5004_Miniature,,1
-Conn_01x01_Socket,FAULT1,TestPoint_Keystone_5000-5004_Miniature,,1
-Conn_01x01_Socket,12V,TestPoint_Keystone_5000-5004_Miniature,,1
-main,J6,PinSocket_2x10_P2.54mm_Vertical,,1

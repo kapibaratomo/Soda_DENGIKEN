@@ -114,7 +114,7 @@
 			(sketchdnponfab yes)
 			(crossoutdnponfab yes)
 			(subtractmaskfromsilk no)
-			(outputformat 4)
+			(outputformat 1)
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
@@ -14565,6 +14565,18 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0cf5883c-a1cd-41bc-9d3b-caad8a6b4caa")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "4743be68-01e6-4373-b75c-95d72cc7818d")
 			(effects
 				(font
 					(size 1.27 1.27)
