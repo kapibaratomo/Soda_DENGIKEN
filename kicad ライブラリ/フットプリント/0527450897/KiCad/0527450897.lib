@@ -1,0 +1,35 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 0527450897
+#/1084409/1590527/2.50/12/2/Connector
+DEF 0527450897 J 0 30 Y Y 1 F N
+F0 "J" 1150 500 50 H V L CNN
+F1 "0527450897" 1150 400 50 H V L CNN
+F2 "0527450897" 1150 300 50 H I L CNN
+F3 "https://www.molex.com/en-us/products/part-detail-pdf/527450897?display=pdf" 1150 200 50 H I L CNN
+F4 "Easy-On FFC/FPC Connector, 0.50mm Pitch, Slider Series, Right-Angle, Top  Contact, 2.00mm Height, 8 Circuits, Gold Plating" 1150 100 50 H I L CNN "Description"
+F5 "2.2" 1150 0 50 H I L CNN "Height"
+F6 "Molex" 1150 -100 50 H I L CNN "Manufacturer_Name"
+F7 "0527450897" 1150 -200 50 H I L CNN "Manufacturer_Part_Number"
+F8 "" 1150 -300 50 H I L CNN "Mouser Part Number"
+F9 "" 1150 -400 50 H I L CNN "Mouser Price/Stock"
+F10 "0527450897" 1150 -500 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/0527450897/molex" 1150 -600 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X 1 1 300 500 200 D 50 50 0 0 P
+X 2 2 400 500 200 D 50 50 0 0 P
+X 3 3 500 500 200 D 50 50 0 0 P
+X 4 4 600 500 200 D 50 50 0 0 P
+X 5 5 700 500 200 D 50 50 0 0 P
+X 6 6 800 500 200 D 50 50 0 0 P
+X 7 7 900 500 200 D 50 50 0 0 P
+X 8 8 1000 500 200 D 50 50 0 0 P
+X MP1 MP1 0 0 200 R 50 50 0 0 P
+X MP2 MP2 600 -600 200 U 50 50 0 0 P
+X MP3 MP3 700 -600 200 U 50 50 0 0 P
+X MP4 MP4 1300 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 300 1100 300 1100 -400 200 -400 200 300 N
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,19 @@
+.0527450897 :1 ;Easy-On FFC/FPC Connector, 0.50mm Pitch, Slider Series, Right-Angle, Top  Contact, 2.00mm Height, 8 Circuits, Gold Plating
+"0527450897"
+*STM J
+*NGS
+*PNM 1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=MP1 10=MP2 11=MP3 12=MP4
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="6" 7="7" 8="8" 9="MP1" 10="MP2" 11="MP3" 12="MP4"
+*MXP 12
+*DFN 0527450897
+~!Manufacturer_Name (Molex)
+~!Manufacturer_Part_Number (0527450897)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (0527450897)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/0527450897/molex)
+~!Link Datasheet (https://www.molex.com/en-us/products/part-detail-pdf/527450897?display=pdf)
+~!Height (2.2mm)
+~!3D_Model (0527450897)
+"0527450897"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 

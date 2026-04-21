@@ -1,0 +1,9 @@
+Manufacturer=Molex
+PartNumber=0527450897
+PartCategory=Connector
+PackageCategory=Other
+PinCount=12
+Version=4.2
+Released=2018-02-07 17:41:10
+Downloaded=2026-04-20 12:58:10
+3D=Y

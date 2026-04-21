@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '0527450897'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Molex", "0527450897" (!) = "", "0527450897", "Other", "", "", "0527450897", "https://www.arrow.com/en/products/0527450897/molex", "Easy-On FFC/FPC Connector, 0.50mm Pitch, Slider Series, Right-Angle, Top  Contact, 2.00mm Height, 8 Circuits, Gold Plating", "https://www.molex.com/en-us/products/part-detail-pdf/527450897?display=pdf", "2.2 mm"
+END_PART
+
+END.
