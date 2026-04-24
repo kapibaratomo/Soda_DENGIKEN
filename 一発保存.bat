@@ -9,7 +9,7 @@ echo ==========================================
 echo  Google Driveの同期完了を待機中...
 echo  (50秒後に自動で開始します)
 echo ==========================================
-timeout /t 50
+timeout /t 50 > nul
 
 echo.
 echo ==========================================
@@ -17,34 +17,25 @@ echo  Starting GitHub Auto Backup...
 echo ==========================================
 
 
-:: ▼ Soda_DENGIKEN本体（originのみ）
+:: -------------------------------
+:: 1. メインリポジトリ
+:: -------------------------------
 echo.
 echo ------------------------------------------
 echo  [1/7] Soda_DENGIKEN
 echo ------------------------------------------
-cd /d "%BASE%"
 
-git add .
-
-git diff --cached --quiet
-if errorlevel 1 (
-    git commit -m "Auto Backup: %date% %time%"
-    if errorlevel 1 (
-        echo  [ERROR] commit失敗
-    ) else (
-        git push origin HEAD
-        if errorlevel 1 (
-            echo  [ERROR] origin push失敗
-        ) else (
-            echo  [OK] Soda_DENGIKEN 完了
-        )
-    )
-) else (
-    echo  変更なし。スキップ
+cd /d "%BASE%" || (
+    echo [ERROR] BASEフォルダが見つかりません
+    pause
+    exit /b
 )
 
+call :BackupRepo "Soda_DENGIKEN"
 
-:: ▼ 個別リポジトリ6個（originのみ）
+:: -------------------------------
+:: 2. 子リポジトリ
+:: -------------------------------
 set COUNT=2
 
 for %%F in (
@@ -61,30 +52,11 @@ for %%F in (
     echo  [!COUNT!/7] %%~F
     echo ------------------------------------------
 
-    cd /d "%BASE%\%%~F"
-
-    git add .
-
-    git diff --cached --quiet
-    if errorlevel 1 (
-
-        git commit -m "Auto Backup: %date% %time%"
-
-        if errorlevel 1 (
-            echo  [ERROR] %%~F commit失敗
-        ) else (
-
-            git push origin HEAD
-
-            if errorlevel 1 (
-                echo  [ERROR] %%~F push失敗
-            ) else (
-                echo  [OK] %%~F 完了
-            )
-        )
-
+    if exist "%BASE%\%%~F" (
+        cd /d "%BASE%\%%~F"
+        call :BackupRepo "%%~F"
     ) else (
-        echo  変更なし。スキップ
+        echo [ERROR] フォルダなし
     )
 
     set /a COUNT+=1
@@ -95,3 +67,30 @@ echo ==========================================
 echo  Done!
 echo ==========================================
 pause
+exit /b
+
+
+
+:: ==========================================
+:: 共通処理
+:: ==========================================
+:BackupRepo
+
+git add .
+
+git diff --cached --quiet
+if not errorlevel 1 (
+    echo 変更なし。スキップ
+    exit /b
+)
+
+git commit -m "Auto Backup: %date% %time%" > nul 2>&1
+
+git push origin HEAD > nul 2>&1
+if errorlevel 1 (
+    echo [ERROR] %~1 push失敗
+) else (
+    echo [OK] %~1 完了
+)
+
+exit /b
