@@ -2,6 +2,7 @@
 	(version 20231120)
 	(generator "kicad_symbol_editor")
 	(generator_version "8.0")
+<<<<<<< HEAD
 	(symbol "DRV8412DDWR"
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -927,4 +928,6 @@
 			)
 		)
 	)
+=======
+>>>>>>> df9246d75826e2a0ce673f8030cc8c0f58c3a400
 )
