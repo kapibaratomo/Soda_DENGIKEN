@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP NJL7502L
-D Ambient Light Sensors Ambient Light Sensor -40C to 85C ,70V,560 nm V,100 nA
-K
-F https://www.nisshinbo-microdevices.co.jp/en/pdf/datasheet/NJL7502L_E.pdf
-$ENDCMP
-#
-#End Doc Library
