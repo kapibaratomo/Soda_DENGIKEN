@@ -1,0 +1,9 @@
+Manufacturer=Yageo Group
+PartNumber=PA4309.104NLT
+PartCategory=Inductor
+PackageCategory=Other
+PinCount=2
+Version=3.2
+Released=2019-09-11 15:10:12
+Downloaded=2026-04-29 07:32:51
+3D=Y

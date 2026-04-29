@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "PA4309_104NLT"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2026-02-03-00:36:00)
+    (mountForm default
+        (footprintRef "PA4309104NLT")
+        (spec "System")
+    )
+)

@@ -1,14 +1,14 @@
-(footprint "TVGP01-G73BB"
-	(version 20240108)
+(footprint "TVGP01G73BB"
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "TVGP01-G73BB-2")
 	(tags "Switch")
 	(property "Reference" "S**"
 		(at 6.25 2.5 0)
 		(layer "F.SilkS")
-		(uuid "6f0655bc-40d0-4555-be3d-0b69562ee758")
+		(uuid "1ba0a24f-0abb-4347-b42d-84a32b4f2d0a")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20,7 +20,7 @@
 		(at 6.25 2.5 0)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "7db2d80c-6211-467f-a35b-039fcfc6dbd1")
+		(uuid "252b1fb2-821d-4516-affa-e25646150281")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28,23 +28,11 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "9fed5823-c448-4e63-a7b6-1548bf7d5120")
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.15)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "634c8356-38ef-406e-9987-8d4b3f1901c1")
+		(uuid "258e19ab-2b2a-4df8-b177-8aea9522642b")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -56,7 +44,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "c9131d80-eab0-4992-b9b7-9f3a596b875b")
+		(uuid "4496548d-ab86-420d-87c7-f964e439deb1")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -73,7 +61,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "d913685a-8276-4186-bef3-95a62484aed8")
+		(uuid "f91a5a69-997a-43bf-af4f-a9815bda558c")
 	)
 	(fp_line
 		(start -1.5 0.1)
@@ -83,7 +71,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "23a23f97-3f10-4b18-bdbd-caa708ecf354")
+		(uuid "7eff11c8-b335-4b32-a3ab-b0df9723b62f")
 	)
 	(fp_line
 		(start 0.25 -3.5)
@@ -93,7 +81,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "3a22c02a-ef8b-4e9a-971a-763f5a78074f")
+		(uuid "dfde0836-7443-4b3d-873f-e34b239f6515")
 	)
 	(fp_line
 		(start 0.25 -1.5)
@@ -103,7 +91,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "3f4f8196-6c06-46be-a8ae-1aaf65989b49")
+		(uuid "85888bd6-0db7-4d93-8b5b-d2c3b303748f")
 	)
 	(fp_line
 		(start 0.25 6.5)
@@ -113,7 +101,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "ac1f11f8-a1e4-4395-9c31-60d92054cc65")
+		(uuid "93960885-200e-4360-b4c0-62463ab57a71")
 	)
 	(fp_line
 		(start 0.25 8.5)
@@ -123,7 +111,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "c2d88d4e-1d94-4f5f-aa1c-39da3afbeb85")
+		(uuid "9e60e9a1-9d62-43c6-b1d6-42928e838ba3")
 	)
 	(fp_line
 		(start 12.25 -3.5)
@@ -133,7 +121,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "31000f74-6dd2-4a82-b848-f84c1e2561f8")
+		(uuid "10c3dc43-c788-4f78-9664-7fd9f8a6af1f")
 	)
 	(fp_line
 		(start 12.25 8.5)
@@ -143,7 +131,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "51e0a24c-e4b0-4aec-ad6b-73dc1512927b")
+		(uuid "903bdf4c-7293-4fac-a7b3-c523b1a2138f")
 	)
 	(fp_arc
 		(start -1.5 -0.1)
@@ -154,7 +142,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "6dd8d2b7-c83a-42ef-b822-88f04f546367")
+		(uuid "a19367e6-40fa-4801-ab23-f22512643d9e")
 	)
 	(fp_arc
 		(start -1.5 0.1)
@@ -165,7 +153,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "901ed4ae-f8ab-4e95-8e7e-6b369a1ba0a9")
+		(uuid "877d0026-5328-4cfa-821f-6fa5864b49eb")
 	)
 	(fp_line
 		(start -1.975 -4.5)
@@ -175,7 +163,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "ca1065f9-8519-4290-9efc-a746883ca749")
+		(uuid "4fb8441a-7130-47d7-9a7a-87dba8ec5d76")
 	)
 	(fp_line
 		(start -1.975 9.5)
@@ -185,7 +173,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "8ba640dc-871b-4c27-8c67-3ae49b699286")
+		(uuid "5f531f31-510a-40ee-a8e5-f45b545ae752")
 	)
 	(fp_line
 		(start 14.475 -4.5)
@@ -195,7 +183,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "08a2d1d4-e2f9-456b-a659-1cea4ab6d529")
+		(uuid "1bced613-1f4e-46c9-bcc4-fcd1437dda44")
 	)
 	(fp_line
 		(start 14.475 9.5)
@@ -205,7 +193,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "3470c5bc-88a1-4471-a2ee-80a770bf97d6")
+		(uuid "10d57074-6727-479b-85e0-8afd81e71d45")
 	)
 	(fp_line
 		(start 0.25 -3.5)
@@ -215,7 +203,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "5e9a757f-34d2-4380-bb8b-69401da13f9d")
+		(uuid "096751ca-a44c-41c1-9ecf-8d1c3527bc9e")
 	)
 	(fp_line
 		(start 0.25 8.5)
@@ -225,7 +213,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "835758c5-0cef-4a18-bd2c-2a67338490f9")
+		(uuid "2543daaf-7f7a-4911-ab59-33b8d65fe81e")
 	)
 	(fp_line
 		(start 12.25 -3.5)
@@ -235,7 +223,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "0eb2e8c0-495b-4a03-81c1-e924f190cb08")
+		(uuid "99d4eb21-6c4f-4b82-8d5c-77d20ae1bdc2")
 	)
 	(fp_line
 		(start 12.25 8.5)
@@ -245,12 +233,12 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "92771912-ac0b-44ab-acf8-b774db7fb8cb")
+		(uuid "632c608e-1f26-4161-83e2-d61f7db55311")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 6.25 2.5 0)
 		(layer "F.Fab")
-		(uuid "d84167d2-3068-4ed0-90c0-a69051f80753")
+		(uuid "4b51c6f7-d6df-4ab4-89eb-a34914313fd6")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -264,33 +252,34 @@
 		(drill 1.3)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "11282a29-c4af-44c0-842e-f7687e9f7884")
+		(uuid "4a143115-a97f-4c74-9416-7db26c1a3ec1")
 	)
-	(pad "1" thru_hole circle
+	(pad "2" thru_hole circle
 		(at 12.5 0)
 		(size 1.95 1.95)
 		(drill 1.3)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "03bd4479-7b14-428e-a970-afee8bad1400")
+		(uuid "fc683d7c-96a1-490e-80f8-c096671491ee")
 	)
-	(pad "2" thru_hole circle
+	(pad "3" thru_hole circle
 		(at 0 5)
 		(size 1.95 1.95)
 		(drill 1.3)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "3cb81adf-143e-4dbc-bcc3-623dec17ef75")
+		(uuid "9811ae06-9852-4ad0-931e-40b1ce4d8fc6")
 	)
-	(pad "2" thru_hole circle
+	(pad "4" thru_hole circle
 		(at 12.5 5)
 		(size 1.95 1.95)
 		(drill 1.3)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "188c5ed4-fc10-41ca-9553-2eeaada41f43")
+		(uuid "fed9ceb2-2a5f-44ba-b247-b48563536762")
 	)
-	(model "C:/Users/tomo-/Downloads/部活/Soda_DENGIKEN/ライブラリ/フットプリント/TVGP01-G73BB/TVGP01-G73BB/3D/TVGP01-G73BB.stp"
+	(embedded_fonts no)
+	(model "C:/Users/tomo-/Downloads/部活/Soda_DENGIKEN/kicad ライブラリ/フットプリント/TVGP01-G73BB/TVGP01-G73BB/3D/TVGP01-G73BB.stp"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "PA4309104NLT"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "PA4309104NLT")
+        (spec "default")
+    )
+)

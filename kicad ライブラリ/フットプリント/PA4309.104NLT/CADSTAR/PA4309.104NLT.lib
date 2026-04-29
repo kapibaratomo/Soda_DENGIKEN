@@ -1,0 +1,18 @@
+.PA4309.104NLT :1 ;Inductor Power Unshielded Drum Core 100uH 20% 100KHz 3.5A 405mOhm DCR T/R
+PA4309104NLT
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN PA4309.104NLT
+~!Manufacturer_Name (Yageo Group)
+~!Manufacturer_Part_Number (PA4309.104NLT)
+~!Mouser Part Number (673-PA4309.104NLT)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Pulse-Electronics/PA4309.104NLT?qs=MffrMO56dLbFdwJL%252B6MqkQ%3D%3D)
+~!Arrow Part Number (PA4309.104NLT)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/pa4309.104nlt/pulse-electronics-corporation?region=nac)
+~!Link Datasheet (https://productfinder.pulseelectronics.com/api/open/part-attachments/datasheet/PA4309.104NLT)
+~!Height (7mm)
+~!3D_Model (PA4309.104NLT)
+PA4309.104NLT
+1.1!U 2.1!U 

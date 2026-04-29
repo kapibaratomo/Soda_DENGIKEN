@@ -1,0 +1,68 @@
+(Japanese_coding: sjis)
+(function "ECS_1189154"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-09-11-15:10:12)
+    (utime 2026-02-04-14:20:06)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "PA4309_104NLT")
+)
+
+
+(pinAssign "ECS_1189154"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-09-11-15:10:12)
+    (utime 2026-02-04-14:20:06)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_1189154")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "PA4309_104NLT")
+)
+
+
+(part "PA4309_104NLT"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-09-11-15:10:12)
+    (utime 2026-02-04-14:20:06)
+    (packageRef "PA4309_104NLT")
+    (pinAssignRef "ECS_1189154")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "L")
+    (property "description" "Inductor Power Unshielded Drum Core 100uH 20% 100KHz 3.5A 405mOhm DCR T/R")
+    (property "Manufacturer_Name" "Yageo Group")
+    (property "Manufacturer_Part_Number" "PA4309.104NLT")
+    (property "Mouser_Part_Number" "673-PA4309.104NLT")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Pulse-Electronics/PA4309.104NLT?qs=MffrMO56dLbFdwJL%252B6MqkQ%3D%3D")
+    (property "Arrow_Part_Number" "PA4309.104NLT")
+    (property "Arrow_Price/Stock" "https://www.arrow.com/en/products/pa4309.104nlt/pulse-electronics-corporation?region=nac")
+    (property "Datasheet_Link" "https://productfinder.pulseelectronics.com/api/open/part-attachments/datasheet/PA4309.104NLT")
+    (property "compAreaTopHeight" 7)
+)
+
+

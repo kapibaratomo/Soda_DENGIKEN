@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PA4309.104NLT
+D Inductor Power Unshielded Drum Core 100uH 20% 100KHz 3.5A 405mOhm DCR T/R
+K
+F https://productfinder.pulseelectronics.com/api/open/part-attachments/datasheet/PA4309.104NLT
+$ENDCMP
+#
+#End Doc Library

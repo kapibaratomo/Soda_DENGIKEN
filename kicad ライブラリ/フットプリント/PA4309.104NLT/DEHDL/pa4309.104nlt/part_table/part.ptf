@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'PA4309.104NLT'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Yageo Group", "PA4309.104NLT" (!) = "", "PA4309104NLT", "Other", "673-PA4309.104NLT", "https://www.mouser.co.uk/ProductDetail/Pulse-Electronics/PA4309.104NLT?qs=MffrMO56dLbFdwJL%252B6MqkQ%3D%3D", "PA4309.104NLT", "https://www.arrow.com/en/products/pa4309.104nlt/pulse-electronics-corporation?region=nac", "Inductor Power Unshielded Drum Core 100uH 20% 100KHz 3.5A 405mOhm DCR T/R", "https://productfinder.pulseelectronics.com/api/open/part-attachments/datasheet/PA4309.104NLT", "7 mm"
+END_PART
+
+END.

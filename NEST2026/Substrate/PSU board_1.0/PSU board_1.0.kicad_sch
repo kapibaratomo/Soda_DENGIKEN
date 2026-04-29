@@ -3154,7 +3154,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 168.91 125.73 90)
 			(effects
 				(font
@@ -3433,7 +3433,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 168.91 116.84 90)
 			(effects
 				(font
@@ -3580,7 +3580,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
 			(at 80.01 80.01 0)
 			(effects
 				(font
@@ -3730,7 +3730,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical"
 			(at 90.17 99.06 0)
 			(effects
 				(font
@@ -4376,8 +4376,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Socket")
-		(at 90.17 110.49 0)
-		(mirror y)
+		(at 90.17 113.03 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4385,7 +4384,7 @@
 		(dnp no)
 		(uuid "65684a2c-16fb-4ea1-a7a4-f3cd1990c9de")
 		(property "Reference" "J2"
-			(at 87.63 110.49 0)
+			(at 87.63 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4393,15 +4392,15 @@
 			)
 		)
 		(property "Value" "Conn_01x02_Socket"
-			(at 79.248 112.776 0)
+			(at 79.248 110.744 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 90.17 110.49 0)
+		(property "Footprint" "Connector_AMASS:AMASS_XT30U-M_1x02_P5.0mm_Vertical"
+			(at 90.17 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4410,7 +4409,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 90.17 110.49 0)
+			(at 90.17 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4419,7 +4418,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 90.17 110.49 0)
+			(at 90.17 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4668,7 +4667,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "DS-850K-S:DS-850K-S"
 			(at 107.95 110.49 0)
 			(effects
 				(font
@@ -4738,7 +4737,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm"
 			(at 128.27 81.28 0)
 			(effects
 				(font
@@ -5006,7 +5005,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PA4309.104NLT:PA4309104NLT"
 			(at 120.65 50.8 0)
 			(effects
 				(font
@@ -5075,7 +5074,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SMC"
 			(at 115.57 53.34 90)
 			(effects
 				(font
@@ -5361,7 +5360,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "3557-15:355715"
 			(at 99.06 112.268 90)
 			(effects
 				(font
@@ -5430,7 +5429,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_XH_S3B-XH-A_1x03_P2.50mm_Horizontal"
 			(at 90.17 148.59 0)
 			(effects
 				(font
@@ -5501,7 +5500,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 160.02 116.84 0)
 			(effects
 				(font
@@ -5570,7 +5569,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SMC"
 			(at 115.57 81.28 90)
 			(effects
 				(font
@@ -5656,7 +5655,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 160.02 125.73 0)
 			(effects
 				(font
@@ -5791,7 +5790,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PA4309.104NLT:PA4309104NLT"
 			(at 120.65 78.74 0)
 			(effects
 				(font
@@ -5861,7 +5860,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm"
 			(at 128.27 53.34 0)
 			(effects
 				(font
@@ -5930,7 +5929,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal"
 			(at 90.17 135.89 0)
 			(effects
 				(font
@@ -6000,7 +5999,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
 			(at 80.01 52.07 0)
 			(effects
 				(font
@@ -6068,7 +6067,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 160.02 107.95 0)
 			(effects
 				(font
@@ -6204,7 +6203,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal"
 			(at 90.17 125.73 0)
 			(effects
 				(font
@@ -6272,7 +6271,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 168.91 107.95 90)
 			(effects
 				(font
