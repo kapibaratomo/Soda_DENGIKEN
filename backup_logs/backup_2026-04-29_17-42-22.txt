@@ -2,3 +2,200 @@
 [2026/04/29 17:42:23.52] Google Drive wait finished
 [2026/04/29 17:42:23.52] ==========================================
 [2026/04/29 17:42:23.53] Parent + Child Repo Push Start
+warning: in the working copy of 'NEST2026/Substrate/Motor driver board_1.0/Motor driver board_1.0.kicad_pro', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'NEST2026/Substrate/PSU board_1.0/PSU board_1.0.kicad_prl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'NEST2026/Substrate/PSU board_1.0/PSU board_1.0.kicad_pro', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'backup_logs/backup_2026-04-29_12-17-33.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'NEST2026/Substrate/PSU board_1.0/PSU board_1.0.step', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'kicad ライブラリ/フットプリント/PA4309.104NLT/Altium/PA4309.104NLT.epw', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'kicad ライブラリ/フットプリント/PA4309.104NLT/PA4309.104NLT.epw', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'kicad ライブラリ/フットプリント/PA4309.104NLT/PADS/PA4309104NLT.d', LF will be replaced by CRLF the next time Git touches it
+[main c5a448b9] Auto Backup: 2026/04/29 17:42:26.28
+ 87 files changed, 226539 insertions(+), 113 deletions(-)
+ delete mode 100644 NEST2026/Substrate/Motor driver board_1.0/Motor driver board_1.0-backups/Motor driver board_1.0-2026-03-19_215408.zip
+ create mode 100644 NEST2026/Substrate/Motor driver board_1.0/Motor driver board_1.0-backups/Motor driver board_1.0-2026-04-29_171806.zip
+ create mode 100644 NEST2026/Substrate/PSU board_1.0/PSU board.dxf
+ create mode 100644 NEST2026/Substrate/PSU board_1.0/PSU board_1.0-backups/PSU board_1.0-2026-04-29_165840.zip
+ create mode 100644 NEST2026/Substrate/PSU board_1.0/PSU board_1.0-backups/PSU board_1.0-2026-04-29_170842.zip
+ create mode 100644 NEST2026/Substrate/PSU board_1.0/PSU board_1.0-backups/PSU board_1.0-2026-04-29_171719.zip
+ create mode 100644 NEST2026/Substrate/PSU board_1.0/PSU board_1.0-backups/PSU board_1.0-2026-04-29_172226.zip
+ create mode 100644 NEST2026/Substrate/PSU board_1.0/PSU board_1.0-backups/PSU board_1.0-2026-04-29_173433.zip
+ create mode 100644 NEST2026/Substrate/PSU board_1.0/PSU board_1.0.step
+ create mode 100644 NEST2026/Substrate/PSU board_1.0/fp-info-cache
+ create mode 100644 backup_logs/backup_2026-04-29_17-42-22.txt
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/3D/PA4309.104NLT.stp
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/Altair/PA4309.104NLT.upfx
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/Altair/Readme.html
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/Altium/PA4309.104NLT.SchLib
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/Altium/PA4309.104NLT.epw
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/Altium/PA4309104NLT.PcbLib
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/Altium/Readme.html
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/CADSTAR/PA4309.104NLT.csa
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/CADSTAR/PA4309.104NLT.lib
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/CADSTAR/PA4309104NLT.cpa
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/CR-5000/PA4309.104NLT.cdf
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/CR-5000/PA4309104NLT.ftf
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/CR-5000/PA4309104NLT.pkf
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/CR-5000/PA4309_104NLT.laf
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/CR-8000/PA4309.104NLT.cdf
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/CR-8000/PA4309104NLT.ftf
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/CR-8000/PA4309104NLT.pkf
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/CR-8000/PA4309_104NLT.laf
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/Capture/PA4309.104NLT.xml
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/CircuitStudio/PA4309.104NLT.lbr
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/DEHDL/pa4309.104nlt/chips/chips.prt
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/DEHDL/pa4309.104nlt/part_table/part.ptf
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/DEHDL/pa4309.104nlt/sym_1/symbol.css
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/DesignSpark PCB PRO/PA4309.104NLT.dsl
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/DesignSpark PCB/PA4309.104NLT.dsl
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/DesignSpark PCB/Readme.html
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/DipTrace/PA4309_104NLT.asc
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/EAGLE/PA4309.104NLT.lbr
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/EAGLE/Readme.html
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/Easy-PC/PA4309.104NLT.epl
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/EasyEDA/PA4309.104NLT.lbr
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/EasyEDA/Readme.html
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/How_To_Use_Models.pdf
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/KiCad/PA4309.104NLT.dcm
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/KiCad/PA4309.104NLT.lib
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/KiCad/PA4309.104NLT.mod
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/KiCad/PA4309.104NLT.pretty/PA4309104NLT.kicad_mod
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/KiCad/PA4309104NLT.kicad_mod
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/KiCad/PA4309_104NLT.kicad_sym
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/OrCAD_Allegro16/BuildFootprint.bat
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/OrCAD_Allegro16/EDI2CAP.CFG
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/OrCAD_Allegro16/PA4309.104NLT.edf
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/OrCAD_Allegro16/footprint.scr
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/OrCAD_Allegro16/padstack1.scr
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/PA4309.104NLT.epw
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/PADS/PA4309.104NLT.asc
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/PADS/PA4309.104NLT.p
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/PADS/PA4309104NLT.d
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/PADS/PA4309_104NLT.c
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/Proteus/8.8 or earlier/Readme.html
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/Proteus/8.9 or later/Readme.html
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/Proteus/PA4309.104NLT.pdif
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/Proteus/PA4309.104NLT.pdspart
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/Pulsonix/PA4309.104NLT.plx
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/Quadcept/PA4309.104NLT.xml
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/SOLIDWORKS PCB/PA4309.104NLT.lbr
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/TARGET 3001!/PA4309.104NLT.cxf
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/Xpedition/PA4309_104NLT.1
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/Xpedition/cell.hkp
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/Xpedition/padstacks.hkp
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/Xpedition/pdb.hkp
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/eCADSTAR/PA4309.104NLT.parta
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/eCADSTAR/PA4309104NLT.foota
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/eCADSTAR/PA4309104NLT.packa
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/eCADSTAR/PA4309_104NLT.symba
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/part_info.txt
+ create mode 100644 kicad ライブラリ/フットプリント/PA4309.104NLT/xDX Designer/PA4309_104NLT.1
+ rename kicad ライブラリ/フットプリント/TVGP01-G73BB/{TVGP01-G73BB.pretty/TVGP01-G73BB.kicad_mod => TVGP01-G73BB/KiCad/TVGP01-G73BB.pretty/TVGP01G73BB.kicad_mod} (66%)
+ create mode 100644 kicad ライブラリ/フットプリント/XT30U-M/XT30U-M.stp
+To https://github.com/kapibaratomo/Soda_DENGIKEN.git
+   b604678b..c5a448b9  main -> main
+[2026/04/29 17:42:32.31] [OK] Soda_DENGIKEN success
+warning: in the working copy of 'Substrate/Motor driver board_1.0/Motor driver board_1.0.kicad_pro', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Substrate/PSU board_1.0/PSU board_1.0.kicad_prl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Substrate/PSU board_1.0/PSU board_1.0.kicad_pro', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Substrate/PSU board_1.0/PSU board_1.0.step', LF will be replaced by CRLF the next time Git touches it
+[main 8ca21f9] Auto Backup: 2026/04/29 17:42:32.63
+ 16 files changed, 192554 insertions(+), 39 deletions(-)
+ delete mode 100644 Substrate/Motor driver board_1.0/Motor driver board_1.0-backups/Motor driver board_1.0-2026-03-19_215408.zip
+ create mode 100644 Substrate/Motor driver board_1.0/Motor driver board_1.0-backups/Motor driver board_1.0-2026-04-29_171806.zip
+ create mode 100644 Substrate/PSU board_1.0/PSU board.dxf
+ create mode 100644 Substrate/PSU board_1.0/PSU board_1.0-backups/PSU board_1.0-2026-04-29_165840.zip
+ create mode 100644 Substrate/PSU board_1.0/PSU board_1.0-backups/PSU board_1.0-2026-04-29_170842.zip
+ create mode 100644 Substrate/PSU board_1.0/PSU board_1.0-backups/PSU board_1.0-2026-04-29_171719.zip
+ create mode 100644 Substrate/PSU board_1.0/PSU board_1.0-backups/PSU board_1.0-2026-04-29_172226.zip
+ create mode 100644 Substrate/PSU board_1.0/PSU board_1.0-backups/PSU board_1.0-2026-04-29_173433.zip
+ create mode 100644 Substrate/PSU board_1.0/PSU board_1.0.step
+ create mode 100644 Substrate/PSU board_1.0/fp-info-cache
+ create mode 100644 Substrate/PSU board_1.0/~PSU board_1.0.kicad_pcb.lck
+To https://github.com/Soda-DENGIKEN/NEST2026
+   e05a95b..8ca21f9  main -> main
+[2026/04/29 17:42:36.30] [OK] NEST2026 success
+[2026/04/29 17:42:36.30] NEST2026 skipped (.git not found
+[2026/04/29 17:42:36.42] Ritsumori cup2026 no changes
+[2026/04/29 17:42:36.42] Ritsumori cup2026 skipped (.git not found
+warning: in the working copy of 'フットプリント/PA4309.104NLT/Altium/PA4309.104NLT.epw', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'フットプリント/PA4309.104NLT/PA4309.104NLT.epw', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'フットプリント/PA4309.104NLT/PADS/PA4309104NLT.d', LF will be replaced by CRLF the next time Git touches it
+[main 778e923] Auto Backup: 2026/04/29 17:42:36.78
+ 70 files changed, 33967 insertions(+), 74 deletions(-)
+ create mode 100644 フットプリント/PA4309.104NLT/3D/PA4309.104NLT.stp
+ create mode 100644 フットプリント/PA4309.104NLT/Altair/PA4309.104NLT.upfx
+ create mode 100644 フットプリント/PA4309.104NLT/Altair/Readme.html
+ create mode 100644 フットプリント/PA4309.104NLT/Altium/PA4309.104NLT.SchLib
+ create mode 100644 フットプリント/PA4309.104NLT/Altium/PA4309.104NLT.epw
+ create mode 100644 フットプリント/PA4309.104NLT/Altium/PA4309104NLT.PcbLib
+ create mode 100644 フットプリント/PA4309.104NLT/Altium/Readme.html
+ create mode 100644 フットプリント/PA4309.104NLT/CADSTAR/PA4309.104NLT.csa
+ create mode 100644 フットプリント/PA4309.104NLT/CADSTAR/PA4309.104NLT.lib
+ create mode 100644 フットプリント/PA4309.104NLT/CADSTAR/PA4309104NLT.cpa
+ create mode 100644 フットプリント/PA4309.104NLT/CR-5000/PA4309.104NLT.cdf
+ create mode 100644 フットプリント/PA4309.104NLT/CR-5000/PA4309104NLT.ftf
+ create mode 100644 フットプリント/PA4309.104NLT/CR-5000/PA4309104NLT.pkf
+ create mode 100644 フットプリント/PA4309.104NLT/CR-5000/PA4309_104NLT.laf
+ create mode 100644 フットプリント/PA4309.104NLT/CR-8000/PA4309.104NLT.cdf
+ create mode 100644 フットプリント/PA4309.104NLT/CR-8000/PA4309104NLT.ftf
+ create mode 100644 フットプリント/PA4309.104NLT/CR-8000/PA4309104NLT.pkf
+ create mode 100644 フットプリント/PA4309.104NLT/CR-8000/PA4309_104NLT.laf
+ create mode 100644 フットプリント/PA4309.104NLT/Capture/PA4309.104NLT.xml
+ create mode 100644 フットプリント/PA4309.104NLT/CircuitStudio/PA4309.104NLT.lbr
+ create mode 100644 フットプリント/PA4309.104NLT/DEHDL/pa4309.104nlt/chips/chips.prt
+ create mode 100644 フットプリント/PA4309.104NLT/DEHDL/pa4309.104nlt/part_table/part.ptf
+ create mode 100644 フットプリント/PA4309.104NLT/DEHDL/pa4309.104nlt/sym_1/symbol.css
+ create mode 100644 フットプリント/PA4309.104NLT/DesignSpark PCB PRO/PA4309.104NLT.dsl
+ create mode 100644 フットプリント/PA4309.104NLT/DesignSpark PCB/PA4309.104NLT.dsl
+ create mode 100644 フットプリント/PA4309.104NLT/DesignSpark PCB/Readme.html
+ create mode 100644 フットプリント/PA4309.104NLT/DipTrace/PA4309_104NLT.asc
+ create mode 100644 フットプリント/PA4309.104NLT/EAGLE/PA4309.104NLT.lbr
+ create mode 100644 フットプリント/PA4309.104NLT/EAGLE/Readme.html
+ create mode 100644 フットプリント/PA4309.104NLT/Easy-PC/PA4309.104NLT.epl
+ create mode 100644 フットプリント/PA4309.104NLT/EasyEDA/PA4309.104NLT.lbr
+ create mode 100644 フットプリント/PA4309.104NLT/EasyEDA/Readme.html
+ create mode 100644 フットプリント/PA4309.104NLT/How_To_Use_Models.pdf
+ create mode 100644 フットプリント/PA4309.104NLT/KiCad/PA4309.104NLT.dcm
+ create mode 100644 フットプリント/PA4309.104NLT/KiCad/PA4309.104NLT.lib
+ create mode 100644 フットプリント/PA4309.104NLT/KiCad/PA4309.104NLT.mod
+ create mode 100644 フットプリント/PA4309.104NLT/KiCad/PA4309.104NLT.pretty/PA4309104NLT.kicad_mod
+ create mode 100644 フットプリント/PA4309.104NLT/KiCad/PA4309104NLT.kicad_mod
+ create mode 100644 フットプリント/PA4309.104NLT/KiCad/PA4309_104NLT.kicad_sym
+ create mode 100644 フットプリント/PA4309.104NLT/OrCAD_Allegro16/BuildFootprint.bat
+ create mode 100644 フットプリント/PA4309.104NLT/OrCAD_Allegro16/EDI2CAP.CFG
+ create mode 100644 フットプリント/PA4309.104NLT/OrCAD_Allegro16/PA4309.104NLT.edf
+ create mode 100644 フットプリント/PA4309.104NLT/OrCAD_Allegro16/footprint.scr
+ create mode 100644 フットプリント/PA4309.104NLT/OrCAD_Allegro16/padstack1.scr
+ create mode 100644 フットプリント/PA4309.104NLT/PA4309.104NLT.epw
+ create mode 100644 フットプリント/PA4309.104NLT/PADS/PA4309.104NLT.asc
+ create mode 100644 フットプリント/PA4309.104NLT/PADS/PA4309.104NLT.p
+ create mode 100644 フットプリント/PA4309.104NLT/PADS/PA4309104NLT.d
+ create mode 100644 フットプリント/PA4309.104NLT/PADS/PA4309_104NLT.c
+ create mode 100644 フットプリント/PA4309.104NLT/Proteus/8.8 or earlier/Readme.html
+ create mode 100644 フットプリント/PA4309.104NLT/Proteus/8.9 or later/Readme.html
+ create mode 100644 フットプリント/PA4309.104NLT/Proteus/PA4309.104NLT.pdif
+ create mode 100644 フットプリント/PA4309.104NLT/Proteus/PA4309.104NLT.pdspart
+ create mode 100644 フットプリント/PA4309.104NLT/Pulsonix/PA4309.104NLT.plx
+ create mode 100644 フットプリント/PA4309.104NLT/Quadcept/PA4309.104NLT.xml
+ create mode 100644 フットプリント/PA4309.104NLT/SOLIDWORKS PCB/PA4309.104NLT.lbr
+ create mode 100644 フットプリント/PA4309.104NLT/TARGET 3001!/PA4309.104NLT.cxf
+ create mode 100644 フットプリント/PA4309.104NLT/Xpedition/PA4309_104NLT.1
+ create mode 100644 フットプリント/PA4309.104NLT/Xpedition/cell.hkp
+ create mode 100644 フットプリント/PA4309.104NLT/Xpedition/padstacks.hkp
+ create mode 100644 フットプリント/PA4309.104NLT/Xpedition/pdb.hkp
+ create mode 100644 フットプリント/PA4309.104NLT/eCADSTAR/PA4309.104NLT.parta
+ create mode 100644 フットプリント/PA4309.104NLT/eCADSTAR/PA4309104NLT.foota
+ create mode 100644 フットプリント/PA4309.104NLT/eCADSTAR/PA4309104NLT.packa
+ create mode 100644 フットプリント/PA4309.104NLT/eCADSTAR/PA4309_104NLT.symba
+ create mode 100644 フットプリント/PA4309.104NLT/part_info.txt
+ create mode 100644 フットプリント/PA4309.104NLT/xDX Designer/PA4309_104NLT.1
+ rename フットプリント/TVGP01-G73BB/{TVGP01-G73BB.pretty/TVGP01-G73BB.kicad_mod => TVGP01-G73BB/KiCad/TVGP01-G73BB.pretty/TVGP01G73BB.kicad_mod} (66%)
+ create mode 100644 フットプリント/XT30U-M/XT30U-M.stp
+To https://github.com/Soda-DENGIKEN/kicad-library.git
+   d08fc30..778e923  main -> main
+[2026/04/29 17:42:39.96] [OK] kicad ライブラリ success
+[2026/04/29 17:42:39.98] kicad ライブラリ skipped (.git not found
+[2026/04/29 17:42:40.00] ==========================================
+[2026/04/29 17:42:40.00] Done
+[2026/04/29 17:42:40.01] ==========================================
